@@ -1,0 +1,12 @@
+{
+    "MaxMusterMann": {
+        "Name": "MaxMusterMann",
+        "Alter": 1234,
+        "Status": "Du bist alt genug"
+    },
+    "MaxMusterKind": {
+        "Name": "MaxMusterKind",
+        "Alter": 12,
+        "Status": "Du bist zu jung"
+    }
+}
